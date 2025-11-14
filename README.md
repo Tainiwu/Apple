@@ -4,7 +4,7 @@ $$a^2+a=2$$
 
 $$a^2+a-2=0$$
 
-$$X = \frac{-b \pm \sqrt{b^2 - 4a_1c}}{2a_1}$$
+$$X = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
 $$a=\frac{-1\pm \sqrt{1^2 - 4•1 (-2)}}{2•1}$$
 
